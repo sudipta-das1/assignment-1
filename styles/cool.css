@@ -154,3 +154,41 @@ font-size: 5px;
     display: flex;
     gap: 10px;
 }
+/* section ready */
+.section-ready{
+    justify-content: center;
+    align-items: center;
+    margin:  50px 100px 100px 200px;
+}
+.section-ready h1{
+   font-size: bold 200px;
+   
+}
+.section-ready p{
+    font-size: 10px;
+
+}
+.section-big{
+    max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+.section-ready-content{
+    align-items: center;
+    margin:50px 100px 50px 200px ;
+}
+/* form */
+.section-form{
+align-content: ;
+}
+.let{
+    font-size: 48px;
+  font-weight: 700;
+}
+.form-contact{
+    display: flex;
+    align-items: center;
+justify-content: center;
+margin: 50px 100px 200px 200px;
+gap: 20px;
+}
