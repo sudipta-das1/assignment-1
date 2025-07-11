@@ -179,7 +179,7 @@ font-size: 5px;
 }
 /* form */
 .section-form{
-align-content: ;
+margin:50px 100px 100px 100x ;
 }
 .let{
     font-size: 48px;
@@ -191,4 +191,36 @@ align-content: ;
 justify-content: center;
 margin: 50px 100px 200px 200px;
 gap: 20px;
+}
+/* footer */
+.footer {
+  background-color: #f9f9ff;
+  text-align: center;
+  padding: 60px 20px;
+  }
+
+    .footer .logo {
+  font-size: 48px;
+  color: #4c4cff;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+footer-text {
+  max-width: 600px;
+  margin: 0 auto 30px auto;
+  font-size: 16px;
+  
+    }
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.footer-nav a {
+  color:;
+  text-decoration: none;
+  font-size: 14px;}
+  .footer-nav a:hover {
+  color: #4c4cff;
 }
