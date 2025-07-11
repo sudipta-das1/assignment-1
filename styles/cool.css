@@ -10,9 +10,9 @@
     background-color: #4E47FF;
     font-size: bold 16px;
     color: white;
-    border-radius: %;
-    width: 130px;
-    height: 30px;
+    border-radius: 5%;
+    width: 150px;
+    height: 50px;
     gap: 16px;
 
 }
@@ -57,4 +57,31 @@ nav ul li{
   font-size: 2.5rem;
   font-weight: bold;
   margin-bottom: 20px;
+}
+/* section style */
+.section-see{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    margin: 50px 100px 100px;
+}
+.section-content{
+    max-width: 650px;
+
+}
+.section-content h2{
+    font-size: bold 42px;
+    color: #252432;
+    margin-bottom: 250x;
+}
+.section-content p{
+    font-size: regular 20px;
+    color: #252432;
+    margin-bottom: 25px;
+
+}
+.section-image{
+width: 400px;
+height: 300px;
 }
