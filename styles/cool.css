@@ -119,3 +119,38 @@ color: #4E47FF;
 .joind-stat p{
 font-size: regular 20px;
 }
+/* section skills */
+.section-skill{
+    ;
+}
+.skill-title{
+text-align: center;
+font-size: 42px;
+}
+.skill-content{
+    display: flex;
+background-color: white;
+border-radius: 12px;
+padding: ;
+text-align: ;
+
+}
+.skill-contents{
+    display: flex;
+    margin: 80px 150px;
+    justify-content: space-between;
+}
+.reviewer-name{
+
+    font-size: 10px;
+  font-weight: 500
+}
+.date{
+    
+font-size: 5px;
+  
+}
+.Reviewer{
+    display: flex;
+    gap: 10px;
+}
