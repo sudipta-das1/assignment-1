@@ -85,3 +85,37 @@ nav ul li{
 width: 400px;
 height: 300px;
 }
+/* section style 2 */
+.section-joined{
+align-items: center;
+background-color: beige;
+margin: 50px 100px 100px 50px;
+
+}
+
+.joind-title{
+    font-size:bold 38px ;
+    margin-bottom: 80px;
+    font-weight: 600;
+   text-align: center;
+   margin-top: 30px;
+}
+.joind-stats{
+display: flex;
+justify-content: space-between 10px;
+gap: 60px;
+flex-wrap: wrap;
+text-align: center;
+margin: 100px 300px 100px ;
+}
+
+
+
+.joind-stat h3{
+color: #4E47FF;
+    font-size: bold ;
+  
+}
+.joind-stat p{
+font-size: regular 20px;
+}
